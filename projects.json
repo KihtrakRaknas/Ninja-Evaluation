@@ -78,9 +78,7 @@
         "PROVE YOURSELF - WORD SCRAMBLE"  : "null",
         "PROVE YOURSELF - SERVER"  : "null",
         "PROVE YOURSELF - ODDBALL"  : "null",
-        "PROVE YOURSELF - CIRCUS BOUNCE"  : "null",
-
-        
+        "PROVE YOURSELF - CIRCUS BOUNCE"  : "null"
     },
     "Green Belt": {
         "01 ROOFTOP RUNNER"  : "null",
@@ -95,7 +93,6 @@
         "PROVE YOURSELF - ROCK CLIMBING"   : "null",
         "PROVE YOURSELF - SNEAKY"  : "null",
         "PROVE YOURSELF - RHYTHM"  : "null",
-        "PROVE YOURSELF - BARREL JUMP"  : "null",
-
+        "PROVE YOURSELF - BARREL JUMP"  : "null"
     }
 }
